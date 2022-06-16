@@ -1,0 +1,1 @@
+class GetWifiError extends Error {}
